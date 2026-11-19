@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IQ Bot</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_strategies">Strategies</string>
+    <string name="nav_history">Journal</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="practice_mode_badge">PRACTICE ENGINE</string>
+    <string name="live_feed_badge">LIVE MARKET</string>
+    <string name="sim_feed_badge">SIM FEED</string>
+    <string name="start_bot">START BOT</string>
+    <string name="stop_bot">STOP BOT</string>
+    <string name="call_higher">CALL</string>
+    <string name="put_lower">PUT</string>
+    <string name="empty_history_title">No Executed Trades Yet</string>
+    <string name="empty_history_subtitle">Start the automated bot or place a manual CALL/PUT position on the Terminal to record executions.</string>
+    <string name="disclaimer_title">Paper Execution Notice</string>
+    <string name="disclaimer_body">IQ Trading Bot runs a local practice execution engine using live public market feeds (with offline simulator fallback). No real funds or external broker credentials are used.</string>
+</resources>

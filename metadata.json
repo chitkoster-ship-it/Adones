@@ -1,0 +1,8 @@
+{
+  "name": "IQ Trading Bot",
+  "description": "Automated quantitative binary options trading bot terminal with live technical indicators (RSI, EMA, Bollinger), strategy engine, risk guardrails, and trade analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
